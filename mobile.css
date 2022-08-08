@@ -1,0 +1,18 @@
+/* external media query for mobiile (max-width:500px) */
+#container{
+    display: block;
+    max-width: 375px;
+}
+.sedan p ,.suv p, .luxury p{
+    font-size: 18px;
+    padding: 0px 15px;
+}
+.sedan h1 ,.suv h1, .luxury h1{
+    padding: 0px 15px;
+}
+.sedan img ,.suv img, .luxury img{
+    padding: 0px 15px;
+}
+.link{
+    margin-left: 15px;
+}
