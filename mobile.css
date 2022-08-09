@@ -2,6 +2,10 @@
 #container{
     display: block;
     max-width: 375px;
+    padding: 0px 20px;
+}
+.sedan, .suv, .luxury{
+    padding: 50px 30px;
 }
 .sedan p ,.suv p, .luxury p{
     font-size: 18px;
